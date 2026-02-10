@@ -1,0 +1,8 @@
+# Agent Instructions
+
+These rules MUST be followed.
+
+Detailed implementation references:
+- docs/k8s-migration.md
+- docs/helm-guidelines.md
+- docs/initcontainer-pattern.md
